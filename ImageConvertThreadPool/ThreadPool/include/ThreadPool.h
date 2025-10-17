@@ -1,0 +1,14 @@
+//
+// Created by chanbin on 25. 10. 16..
+//
+
+#ifndef IMAGECONVERTTHREADPOOL_THREADPOOL_H
+#define IMAGECONVERTTHREADPOOL_THREADPOOL_H
+
+
+class ThreadPool
+{
+};
+
+
+#endif //IMAGECONVERTTHREADPOOL_THREADPOOL_H
